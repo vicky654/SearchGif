@@ -1,0 +1,13 @@
+// const searcItem = e => {
+  //     // console.log('Text', e);
+  //     let newvar = e.target.value;
+  //     let text = newvar.toLowerCase();
+  //     let filteredName = allData.filter(item => {
+  //       return item?.content_description.toLowerCase().match(text);
+  //     });
+  //     if (text === '') {
+  //       setAllData(data)
+  //     } else if (Array.isArray(filteredName)) {
+  //       setAllData(filteredName)
+  //     }
+  //   };
